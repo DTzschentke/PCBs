@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=C13-1
+Removed Pin From Net: NetName=NetC17_2 Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Member From Class: ClassName=EmphaseMainBoard Member=C19
+Added Pin To Net: NetName=NetD3_1 Pin=C13-1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetC13_1

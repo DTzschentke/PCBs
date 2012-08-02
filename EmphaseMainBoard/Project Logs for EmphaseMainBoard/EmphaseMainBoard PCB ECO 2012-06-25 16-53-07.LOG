@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3 Pin=R10-1
+Removed Pin From Net: NetName=NetIC1_73 Pin=R10-2
+Removed Member From Class: ClassName=EmphaseMainBoard Member=R10

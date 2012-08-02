@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Panel_UI_Din24_Dout24.PcbDoc]
+   Generated File[Panel_UI_Din24_Dout24.TXT]
+   Generated File[Panel_UI_Din24_Dout24.DRL]
+   Generated File[Panel_UI_Din24_Dout24.LDP]
+   Generated File[Panel_UI_Din24_Dout24.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:30:58 On 2012-08-02

@@ -1,0 +1,130 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=ADC_0.0 Pin=P6-1
+Removed Pin From Net: NetName=ADC_0.1 Pin=P6-3
+Removed Pin From Net: NetName=ADC_0.2 Pin=P6-5
+Removed Pin From Net: NetName=ADC_0.3 Pin=P6-7
+Removed Pin From Net: NetName=ADC_0.4 Pin=P8-1
+Removed Pin From Net: NetName=ADC_0.5 Pin=P8-3
+Removed Pin From Net: NetName=ADC_0.6 Pin=P8-5
+Removed Pin From Net: NetName=ADC_0.7 Pin=P8-7
+Added Component: Designator=C39(6-0805_N)
+Added Component: Designator=C40(6-0805_N)
+Added Component: Designator=C41(6-0805_N)
+Added Component: Designator=C42(6-0805_N)
+Added Component: Designator=C43(6-0805_N)
+Added Component: Designator=C44(6-0805_N)
+Added Component: Designator=C45(6-0805_N)
+Added Component: Designator=C46(6-0805_N)
+Added Component: Designator=D6(SOT23-3N)
+Added Component: Designator=D7(SOT23-3N)
+Added Component: Designator=D8(SOT23-3N)
+Added Component: Designator=D9(SOT23-3N)
+Added Component: Designator=D10(SOT23-3N)
+Added Component: Designator=D11(SOT23-3N)
+Added Component: Designator=D12(SOT23-3N)
+Added Component: Designator=D13(SOT23-3N)
+Added Component: Designator=R39(6-0805)
+Added Component: Designator=R40(6-0805)
+Added Component: Designator=R41(6-0805)
+Added Component: Designator=R42(6-0805)
+Added Component: Designator=R43(6-0805)
+Added Component: Designator=R44(6-0805)
+Added Component: Designator=R45(6-0805)
+Added Component: Designator=R46(6-0805)
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=3V3 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=3V3 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=3V3 Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=3V3 Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=3V3 Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=3V3 Pin=D11-1
+Added Pin To Net: NetName=GND Pin=D11-2
+Added Pin To Net: NetName=3V3 Pin=D12-1
+Added Pin To Net: NetName=GND Pin=D12-2
+Added Pin To Net: NetName=3V3 Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=ADC_0.0 Pin=R39-1
+Added Pin To Net: NetName=ADC_0.1 Pin=R40-1
+Added Pin To Net: NetName=ADC_0.2 Pin=R41-1
+Added Pin To Net: NetName=ADC_0.3 Pin=R42-1
+Added Pin To Net: NetName=ADC_0.4 Pin=R43-1
+Added Pin To Net: NetName=ADC_0.5 Pin=R44-1
+Added Pin To Net: NetName=ADC_0.6 Pin=R45-1
+Added Pin To Net: NetName=ADC_0.7 Pin=R46-1
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=D6-3
+Added Pin To Net: NetName=NetC39_2 Pin=P6-1
+Added Pin To Net: NetName=NetC39_2 Pin=R39-2
+Added Net: Name=NetC39_2
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=D7-3
+Added Pin To Net: NetName=NetC40_2 Pin=P6-3
+Added Pin To Net: NetName=NetC40_2 Pin=R40-2
+Added Net: Name=NetC40_2
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=D8-3
+Added Pin To Net: NetName=NetC41_2 Pin=P6-5
+Added Pin To Net: NetName=NetC41_2 Pin=R41-2
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=D9-3
+Added Pin To Net: NetName=NetC42_2 Pin=P6-7
+Added Pin To Net: NetName=NetC42_2 Pin=R42-2
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=D10-3
+Added Pin To Net: NetName=NetC43_2 Pin=P8-1
+Added Pin To Net: NetName=NetC43_2 Pin=R43-2
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=NetC44_2 Pin=D11-3
+Added Pin To Net: NetName=NetC44_2 Pin=P8-3
+Added Pin To Net: NetName=NetC44_2 Pin=R44-2
+Added Net: Name=NetC44_2
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=D12-3
+Added Pin To Net: NetName=NetC45_2 Pin=P8-5
+Added Pin To Net: NetName=NetC45_2 Pin=R45-2
+Added Net: Name=NetC45_2
+Added Pin To Net: NetName=NetC46_2 Pin=C46-2
+Added Pin To Net: NetName=NetC46_2 Pin=D13-3
+Added Pin To Net: NetName=NetC46_2 Pin=P8-7
+Added Pin To Net: NetName=NetC46_2 Pin=R46-2
+Added Net: Name=NetC46_2
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C39 Cap Semi
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C40 Cap Semi
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C41 Cap Semi
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C42 Cap Semi
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C43 Cap Semi
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C44 Cap Semi
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C45 Cap Semi
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C46 Cap Semi
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component D6 Double Diode
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component D7 Double Diode
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component D8 Double Diode
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component D9 Double Diode
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component D10 Double Diode
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component D11 Double Diode
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component D12 Double Diode
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component D13 Double Diode
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component R39 Res2
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component R40 Res2
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component R41 Res2
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component R42 Res2
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component R43 Res2
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component R44 Res2
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component R45 Res2
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component R46 Res2
+Added Room: Name=EmphaseMainBoard

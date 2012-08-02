@@ -1,0 +1,54 @@
+Field=Designator~String~Designator~140|Field=Comment~String~Comment~121|Field=Description~String~Description~245|Field=Footprint~String~Footprint~97|Field=Quantity~Integer~Quantity~93|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~EmphaseMainBoard.PrjPCB|ReportField=ProjectFullPath~E:\Projekte\Keyboard\PCBs\EmphaseMainBoard\EmphaseMainBoard.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [EmphaseMainBoard.PcbDoc]|ReportField=TotalQuantity~138|ReportField=ReportTime~09:22:52|ReportField=ReportDate~2012-07-23|ReportField=ReportDateTime~2012-07-23 09:22:52|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~EmphaseMainBoard.PcbDoc|ReportField=DataSourceFullPath~E:\Projekte\Keyboard\PCBs\EmphaseMainBoard\EmphaseMainBoard.PcbDoc
+C1, C3, C4, C11, C12, C15, C17, C18, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46|Cap Semi|Capacitor (Semiconductor SIM Model)|6-0805_N|34
+C2, C16|Cap Pol1|Polarized Capacitor (Radial)|6-0805_N|2
+C13|Cap Pol1|Polarized Capacitor (Radial)|CAPPR3.5-8x20|1
+C14, C20|Cap Pol1|Polarized Capacitor (Radial)|CAPPR2.5-6.3x11|2
+D1|Task_Overrun|Typical BLUE SiC LED|6-0805_M|1
+D2|Error|Typical BLUE SiC LED|6-0805_M|1
+D3|Bridge Rectifier||SDIP|1
+D4|5V_Good|Typical BLUE SiC LED|6-0805_M|1
+D5|3V3_Good|Typical BLUE SiC LED|6-0805_M|1
+D6, D7, D8, D9, D10, D11, D12, D13|Double Diode|High Speed Double Diode|SOT23-3N|8
+IC1||Capacitor (Semiconductor SIM Model)|LPCXpresso1769|1
+J1|VSEL_DIO_SPI_ADC|Header, 3-Pin|HDR1X3|1
+J4|VSEL_SPARE_A|Header, 3-Pin|HDR1X3|1
+J5|VSEL_SPARE_B|Header, 3-Pin|HDR1X3|1
+J6, J8|InCurrent|Header, 2-Pin|HDR1X2|2
+J7|5V Current|Header, 2-Pin|HDR1X2|1
+J9|3.3V Current|Header, 2-Pin|HDR1X2|1
+J10|VSEL_CLAV|Header, 3-Pin|HDR1X3|1
+J11|VSEL_LCD|Header, 3-Pin|HDR1X3|1
+J13|USB_Shield to GND|Header, 2-Pin|HDR1X2|1
+J14|USB_GND to GND|Header, 2-Pin|HDR1X2|1
+J16|ETH_GND to GND|Header, 2-Pin|HDR1X2|1
+J17|ETH_SHIELD to GND|Header, 2-Pin|HDR1X2|1
+J18|5V to JTAG|Header, 2-Pin|HDR1X2|1
+P1b|JTAG mini|JTAG|10 pol Header SMD|1
+P2|SPARE_UARTS|10 pol Header|10 pol Header|1
+P3|DIO|10 pol Header|10 pol Header|1
+P4|Mini USB||Mini USB Socket - Typ B|1
+P5|SPI_ADC|10 pol Header|10 pol Header|1
+P6|ADC_A|10 pol Header|10 pol Header|1
+P7|SPARE_A|10 pol Header|10 pol Header|1
+P8|ADC_B|10 pol Header|10 pol Header|1
+P9|SPARE_B|10 pol Header|10 pol Header|1
+P10|Lumberg Power Con|Lumberg Power Connector|LumbergPowerCon|1
+P11|5V Supply|Header, 2-Pin|HDR1X2|1
+P12|3V3 Supply|Header, 2-Pin|HDR1X2|1
+P13|Claviature_1|16 pol Header|16 pol Header|1
+P14|LCD_1|16 pol Header|16 pol Header|1
+P15|Claviature_2|16 pol Header|16 pol Header|1
+P16|LCD_2|16 pol Header|16 pol Header|1
+P17|Ethernet|Bel Stewart - MagJack 10/100 RJ-45 Ethernet|Ethernet RJ-45|1
+Q1|BC337|NPN Bipolar Transistor|TO-226-AA|1
+R1, R2, R3, R4, R5, R6, R7, R8, R9, R11, R12, R13, R14, R16, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R46|Res2|Resistor|6-0805|43
+R15|Contrast|Square Trimming Potentiometer|MiniPot|1
+R17|Luminance|Square Trimming Potentiometer|MiniPot|1
+SW1|CPU_Reset||SMD Switch|1
+SW2|ISP_Reset||SMD Switch|1
+SW3|Task_Error_Reset||SMD Switch|1
+U1|SN74HC541DW|Octal Buffer/Driver with 3-State Outputs|DW020_N|1
+U2|SN74HC595D|8-Bit Shift Register with 3-State Output Registers|D016_M|1
+U3|SN74HC154DW|4-Line to 16-Line Decoder / Demultiplexer|SOIC127P1199-24AN|1
+VR1|5 V||SOT223-4N|1
+VR2|3.3 V||SOT223-4N|1

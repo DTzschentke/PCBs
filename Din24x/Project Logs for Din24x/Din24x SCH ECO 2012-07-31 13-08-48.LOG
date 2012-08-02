@@ -1,0 +1,25 @@
+Remove Pin=P_Out-5 From Net=ID
+Remove Pin=U2-10 From Net=ID
+Remove Pin=U3-10 From Net=ID
+Change Component Designator: OldDesignator=P_In NewDesignator=Bus In
+Change Component Designator: OldDesignator=P_In_1-8 NewDesignator=In 1-8
+Change Component Designator: OldDesignator=P_In_9-16 NewDesignator=In 9-16
+Change Component Designator: OldDesignator=P_In_17-24 NewDesignator=In 17-24
+Change Component Designator: OldDesignator=P_Out NewDesignator=Bus Out
+Add Pin To Net: Pin=Bus Out-3 Old Net=NetP_Out_3 New Net=OD
+Change Pin Designator/Name:  Old Designator=RA_2.1-1 Old Name=1 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=RA_2.1-2 Old Name=2 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=RA_2.1-3 Old Name=3 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=RA_2.1-4 Old Name=4 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=RA_2.2-1 Old Name=1 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=RA_2.2-2 Old Name=2 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=RA_2.2-3 Old Name=3 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=RA_2.2-4 Old Name=4 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=RA_3.1-1 Old Name=1 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=RA_3.1-2 Old Name=2 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=RA_3.1-3 Old Name=3 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=RA_3.1-4 Old Name=4 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=RA_3.2-1 Old Name=1 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=RA_3.2-2 Old Name=2 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=RA_3.2-3 Old Name=3 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=RA_3.2-4 Old Name=4 New Designator =1 New Name=1

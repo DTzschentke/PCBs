@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=P1b-1
+Added Component: Designator=J18(HDR1X2)
+Added Pin To Net: NetName=5V Pin=J18-2
+Added Pin To Net: NetName=NetJ18_1 Pin=J18-1
+Added Pin To Net: NetName=NetJ18_1 Pin=P1b-1
+Added Net: Name=NetJ18_1
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component J18 5V to JTAG

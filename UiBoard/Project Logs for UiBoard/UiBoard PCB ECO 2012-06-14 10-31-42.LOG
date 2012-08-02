@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=S9-2
+Added Pin To Net: NetName=GND Pin=S9-4
+Added Pin To Net: NetName=SW_17 Pin=S18-1
+Added Pin To Net: NetName=GND Pin=S18-2
+Added Pin To Net: NetName=GND Pin=S18-4
+Added Pin To Net: NetName=SW_22 Pin=S23-1
+Added Pin To Net: NetName=GND Pin=S23-2
+Added Pin To Net: NetName=GND Pin=S23-4
+Added Room: Name=UiBoard

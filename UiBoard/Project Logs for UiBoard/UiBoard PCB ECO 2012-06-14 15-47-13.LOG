@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=P? Old DesignItemId=09 18 510 7323 New DesignItemId=10 pol Header
+Change Component Comment : Designator=P? Old Comment=09 18 510 7323 New Comment=10 pol Header
+Change Component Description : Designator=P? Old Description=Flat Cable Connector (IDC), Low-Profile Male Header, Angled Solder Pin, 10 Contacts, Performance Level 3 New Description=10 pol Header
+Change Component Library : Designator=P? Old Library=HARTING IDC 2.54mm Pitch.IntLib New Library=10polHeader.SchLib

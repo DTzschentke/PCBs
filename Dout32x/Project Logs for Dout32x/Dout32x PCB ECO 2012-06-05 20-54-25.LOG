@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=C0 NewDesignator=C_In
+Added Component: Designator=C_Out(1608[0603])
+Added Component: Designator=P_Out(918510x324)
+Added Pin To Net: NetName=GND Pin=C_Out-1
+Added Pin To Net: NetName=VCC Pin=C_Out-2
+Added Pin To Net: NetName=GND Pin=P_Out-9
+Added Pin To Net: NetName=VCC Pin=P_Out-10
+Added Member To Class: ClassName=Dout32x Member=Component C_Out Cap Semi
+Added Member To Class: ClassName=Dout32x Member=Component P_Out 10 pol
+Added Room: Name=Dout32x

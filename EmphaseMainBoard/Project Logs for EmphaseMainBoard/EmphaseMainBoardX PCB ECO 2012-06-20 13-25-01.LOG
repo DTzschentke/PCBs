@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=KEY_0 Pin=R2-1
+Removed Pin From Net: NetName=KEY_1 Pin=R2-2
+Removed Pin From Net: NetName=KEY_2 Pin=R2-3
+Removed Pin From Net: NetName=KEY_3 Pin=R2-4
+Removed Pin From Net: NetName=NetJ5_2 Pin=R2-5
+Removed Pin From Net: NetName=NetJ5_2 Pin=R2-6
+Removed Pin From Net: NetName=NetJ5_2 Pin=R2-7
+Removed Pin From Net: NetName=NetJ5_2 Pin=R2-8
+Removed Pin From Net: NetName=KEY_4 Pin=R3-1
+Removed Pin From Net: NetName=KEY_5 Pin=R3-2
+Removed Pin From Net: NetName=KEY_6 Pin=R3-3
+Removed Pin From Net: NetName=KEY_7 Pin=R3-4
+Removed Pin From Net: NetName=NetJ5_2 Pin=R3-5
+Removed Pin From Net: NetName=NetJ5_2 Pin=R3-6
+Removed Pin From Net: NetName=NetJ5_2 Pin=R3-7
+Removed Pin From Net: NetName=NetJ5_2 Pin=R3-8
+Removed Pin From Net: NetName=LCD_RW Pin=R13-1
+Removed Pin From Net: NetName=LCD_RS Pin=R13-2
+Removed Pin From Net: NetName=LCD2_E Pin=R13-3
+Removed Pin From Net: NetName=LCD1_E Pin=R13-4
+Removed Pin From Net: NetName=V_LCD Pin=R13-5
+Removed Pin From Net: NetName=V_LCD Pin=R13-6
+Removed Pin From Net: NetName=V_LCD Pin=R13-7
+Removed Pin From Net: NetName=V_LCD Pin=R13-8
+Removed Member From Class: ClassName=EmphaseMainBoard Member=R2
+Removed Member From Class: ClassName=EmphaseMainBoard Member=R3
+Removed Member From Class: ClassName=EmphaseMainBoard Member=R13
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Component: Designator=R5(6-0805)
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R5-1
+Added Pin To Net: NetName=V_LCD Pin=R5-1
+Added Pin To Net: NetName=V_LCD Pin=R5-1
+Added Pin To Net: NetName=V_LCD Pin=R5-1
+Added Pin To Net: NetName=V_LCD Pin=R5-1
+Added Pin To Net: NetName=KEY_0 Pin=R5-2
+Added Pin To Net: NetName=KEY_1 Pin=R5-2
+Added Pin To Net: NetName=KEY_2 Pin=R5-2
+Added Pin To Net: NetName=KEY_3 Pin=R5-2
+Added Pin To Net: NetName=KEY_4 Pin=R5-2
+Added Pin To Net: NetName=KEY_5 Pin=R5-2
+Added Pin To Net: NetName=KEY_6 Pin=R5-2
+Added Pin To Net: NetName=KEY_7 Pin=R5-2
+Added Pin To Net: NetName=LCD1_E Pin=R5-2
+Added Pin To Net: NetName=LCD2_E Pin=R5-2
+Added Pin To Net: NetName=LCD_RS Pin=R5-2
+Added Pin To Net: NetName=LCD_RW Pin=R5-2
+Added Room: Name=EmphaseMainBoard

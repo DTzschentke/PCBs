@@ -1,0 +1,48 @@
+Added Component: Designator=SW0(SMD Switch)
+Added Component: Designator=SW1(SMD Switch)
+Added Component: Designator=SW2(SMD Switch)
+Added Component: Designator=SW3(SMD Switch)
+Added Component: Designator=SW4(SMD Switch)
+Added Component: Designator=SW5(SMD Switch)
+Added Component: Designator=SW6(SMD Switch)
+Added Component: Designator=SW7(SMD Switch)
+Added Pin To Net: NetName=NetSW0_1 Pin=SW0-1
+Added Pin To Net: NetName=NetSW0_1 Pin=SW0-2
+Added Pin To Net: NetName=S0 Pin=SW0-3
+Added Pin To Net: NetName=S0 Pin=SW0-4
+Added Pin To Net: NetName=NetSW0_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW0_1 Pin=SW1-2
+Added Pin To Net: NetName=S1 Pin=SW1-3
+Added Pin To Net: NetName=S1 Pin=SW1-4
+Added Pin To Net: NetName=NetSW0_1 Pin=SW2-1
+Added Pin To Net: NetName=NetSW0_1 Pin=SW2-2
+Added Pin To Net: NetName=S2 Pin=SW2-3
+Added Pin To Net: NetName=S2 Pin=SW2-4
+Added Pin To Net: NetName=NetSW0_1 Pin=SW3-1
+Added Pin To Net: NetName=NetSW0_1 Pin=SW3-2
+Added Pin To Net: NetName=S3 Pin=SW3-3
+Added Pin To Net: NetName=S3 Pin=SW3-4
+Added Pin To Net: NetName=NetSW0_1 Pin=SW4-1
+Added Pin To Net: NetName=NetSW0_1 Pin=SW4-2
+Added Pin To Net: NetName=S4 Pin=SW4-3
+Added Pin To Net: NetName=S4 Pin=SW4-4
+Added Pin To Net: NetName=NetSW0_1 Pin=SW5-1
+Added Pin To Net: NetName=NetSW0_1 Pin=SW5-2
+Added Pin To Net: NetName=S5 Pin=SW5-3
+Added Pin To Net: NetName=S5 Pin=SW5-4
+Added Pin To Net: NetName=NetSW0_1 Pin=SW6-1
+Added Pin To Net: NetName=NetSW0_1 Pin=SW6-2
+Added Pin To Net: NetName=S6 Pin=SW6-3
+Added Pin To Net: NetName=S6 Pin=SW6-4
+Added Pin To Net: NetName=NetSW0_1 Pin=SW7-1
+Added Pin To Net: NetName=NetSW0_1 Pin=SW7-2
+Added Pin To Net: NetName=S7 Pin=SW7-3
+Added Pin To Net: NetName=S7 Pin=SW7-4
+Added Member To Class: ClassName=ButtonBoard Member=Component SW0 Generic SMD Switch
+Added Member To Class: ClassName=ButtonBoard Member=Component SW1 Generic SMD Switch
+Added Member To Class: ClassName=ButtonBoard Member=Component SW2 Generic SMD Switch
+Added Member To Class: ClassName=ButtonBoard Member=Component SW3 Generic SMD Switch
+Added Member To Class: ClassName=ButtonBoard Member=Component SW4 Generic SMD Switch
+Added Member To Class: ClassName=ButtonBoard Member=Component SW5 Generic SMD Switch
+Added Member To Class: ClassName=ButtonBoard Member=Component SW6 Generic SMD Switch
+Added Member To Class: ClassName=ButtonBoard Member=Component SW7 Generic SMD Switch

@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=GND Pin=C_Out-1
+Removed Pin From Net: NetName=VCC Pin=C_Out-2
+Removed Member From Class: ClassName=Dout32x Member=C_Out
+Added Component: Designator=C_U1(1608[0603])
+Added Component: Designator=C_U2(1608[0603])
+Added Component: Designator=C_U3(1608[0603])
+Added Component: Designator=C_U4(1608[0603])
+Added Component: Designator=R?(EXB38)
+Added Pin To Net: NetName=GND Pin=C_U1-1
+Added Pin To Net: NetName=VCC Pin=C_U1-2
+Added Pin To Net: NetName=GND Pin=C_U2-1
+Added Pin To Net: NetName=VCC Pin=C_U2-2
+Added Pin To Net: NetName=GND Pin=C_U3-1
+Added Pin To Net: NetName=VCC Pin=C_U3-2
+Added Pin To Net: NetName=GND Pin=C_U4-1
+Added Pin To Net: NetName=VCC Pin=C_U4-2
+Added Pin To Net: NetName=VCC Pin=P_Dout_1-8-10
+Added Pin To Net: NetName=VCC Pin=P_Dout_9-16-10
+Added Pin To Net: NetName=VCC Pin=P_Dout_17-24-10
+Added Pin To Net: NetName=VCC Pin=P_Dout_25-32-10
+Added Pin To Net: NetName=GND Pin=P_In-2
+Added Pin To Net: NetName=GND Pin=P_In-4
+Added Pin To Net: NetName=GND Pin=P_In-6
+Added Pin To Net: NetName=GND Pin=P_Out-2
+Added Pin To Net: NetName=GND Pin=P_Out-4
+Added Pin To Net: NetName=GND Pin=P_Out-6
+Added Pin To Net: NetName=OUT_1.2 Pin=R?-1
+Added Pin To Net: NetName=OUT_1.4 Pin=R?-2
+Added Pin To Net: NetName=OUT_1.6 Pin=R?-3
+Added Pin To Net: NetName=OUT_1.8 Pin=R?-4
+Added Pin To Net: NetName=VCC Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=VCC Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=VCC Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=VCC Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=CL Pin=P_In-1
+Added Pin To Net: NetName=CL Pin=P_Out-1
+Added Pin To Net: NetName=CL Pin=U1-11
+Added Pin To Net: NetName=CL Pin=U2-11
+Added Pin To Net: NetName=CL Pin=U3-11
+Added Pin To Net: NetName=CL Pin=U4-11
+Added Net: Name=CL
+Added Pin To Net: NetName=ID Pin=P_In-5
+Added Pin To Net: NetName=ID Pin=P_Out-5
+Added Net: Name=ID
+Added Pin To Net: NetName=IG Pin=P_In-8
+Added Pin To Net: NetName=IG Pin=P_Out-8
+Added Net: Name=IG
+Added Pin To Net: NetName=OD_1 Pin=U1-9
+Added Pin To Net: NetName=OD_1 Pin=U2-14
+Added Net: Name=OD_1
+Added Pin To Net: NetName=OD_2 Pin=U2-9
+Added Pin To Net: NetName=OD_2 Pin=U3-14
+Added Net: Name=OD_2
+Added Pin To Net: NetName=OD_3 Pin=U3-9
+Added Pin To Net: NetName=OD_3 Pin=U4-14
+Added Net: Name=OD_3
+Added Pin To Net: NetName=OD_4 Pin=P_Out-3
+Added Pin To Net: NetName=OD_4 Pin=U4-9
+Added Net: Name=OD_4
+Added Pin To Net: NetName=OD Pin=P_In-3
+Added Pin To Net: NetName=OD Pin=U1-14
+Added Net: Name=OD
+Added Pin To Net: NetName=OS Pin=P_In-7
+Added Pin To Net: NetName=OS Pin=P_Out-7
+Added Pin To Net: NetName=OS Pin=U1-12
+Added Pin To Net: NetName=OS Pin=U2-12
+Added Pin To Net: NetName=OS Pin=U3-12
+Added Pin To Net: NetName=OS Pin=U4-12
+Added Net: Name=OS
+Added Member To Class: ClassName=Dout32x Member=Component C_U1 Cap Semi
+Added Member To Class: ClassName=Dout32x Member=Component C_U2 Cap Semi
+Added Member To Class: ClassName=Dout32x Member=Component C_U3 Cap Semi
+Added Member To Class: ClassName=Dout32x Member=Component C_U4 Cap Semi
+Added Member To Class: ClassName=Dout32x Member=Component R? EXB38
+Added Room: Name=Dout32x

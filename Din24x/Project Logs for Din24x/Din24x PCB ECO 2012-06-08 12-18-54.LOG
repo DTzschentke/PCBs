@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=ID Pin=P_Out-5
+Removed Pin From Net: NetName=ID Pin=U2-10
+Removed Pin From Net: NetName=ID Pin=U3-10
+Added Component: Designator=R1(1608[0603])
+Added Component: Designator=R2(1608[0603])
+Added Component: Designator=R3(1608[0603])
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=ID_1 Pin=R1-1
+Added Pin To Net: NetName=ID_1 Pin=R2-1
+Added Pin To Net: NetName=ID_1 Pin=U1-10
+Added Pin To Net: NetName=ID_1 Pin=U2-9
+Added Net: Name=ID_1
+Added Pin To Net: NetName=ID_2 Pin=R3-1
+Added Pin To Net: NetName=ID_2 Pin=U2-10
+Added Pin To Net: NetName=ID_2 Pin=U3-9
+Added Net: Name=ID_2
+Added Pin To Net: NetName=ID_3 Pin=P_Out-5
+Added Pin To Net: NetName=ID_3 Pin=U3-10
+Added Net: Name=ID_3
+Added Member To Class: ClassName=Din24x. Member=Component R1 Res2
+Added Member To Class: ClassName=Din24x. Member=Component R2 Res2
+Added Member To Class: ClassName=Din24x. Member=Component R3 Res2
+Added Room: Name=Din24x.

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=P_Dout_1-8-10
+Removed Pin From Net: NetName=VCC Pin=P_Dout_9-16-10
+Removed Pin From Net: NetName=VCC Pin=P_Dout_17-24-10
+Removed Pin From Net: NetName=VCC Pin=P_Dout_25-32-10
+Added Room: Name=Dout32x

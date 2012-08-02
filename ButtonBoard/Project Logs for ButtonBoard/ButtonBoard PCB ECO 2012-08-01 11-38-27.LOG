@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=S0 Pin=SW0-3
+Removed Pin From Net: NetName=S1 Pin=SW1-3
+Removed Pin From Net: NetName=S2 Pin=SW2-3
+Removed Pin From Net: NetName=S3 Pin=SW3-3
+Removed Pin From Net: NetName=S4 Pin=SW4-3
+Removed Pin From Net: NetName=S5 Pin=SW5-3
+Removed Pin From Net: NetName=S6 Pin=SW6-3
+Removed Pin From Net: NetName=S7 Pin=SW7-3
+Added Member To Class: ClassName=ButtonBoard Member=Component P? Header 8X2

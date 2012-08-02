@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetC39_2 Pin=P6-1
+Removed Pin From Net: NetName=NetC40_2 Pin=P6-3
+Removed Pin From Net: NetName=NetC41_2 Pin=P6-5
+Removed Pin From Net: NetName=NetC42_2 Pin=P6-7
+Removed Pin From Net: NetName=NetC43_2 Pin=P8-1
+Removed Pin From Net: NetName=NetC44_2 Pin=P8-3
+Removed Pin From Net: NetName=NetC45_2 Pin=P8-5
+Removed Pin From Net: NetName=NetC46_2 Pin=P8-7
+Removed Pin From Net: NetName=NetC39_2 Pin=R39-2
+Removed Pin From Net: NetName=NetC40_2 Pin=R40-2
+Removed Pin From Net: NetName=NetC41_2 Pin=R41-2
+Removed Pin From Net: NetName=NetC42_2 Pin=R42-2
+Removed Pin From Net: NetName=NetC43_2 Pin=R43-2
+Removed Pin From Net: NetName=NetC44_2 Pin=R44-2
+Removed Pin From Net: NetName=NetC45_2 Pin=R45-2
+Removed Pin From Net: NetName=NetC46_2 Pin=R46-2
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R39-2
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetP6_3 Pin=P6-3
+Added Pin To Net: NetName=NetP6_3 Pin=R40-2
+Added Net: Name=NetP6_3
+Added Pin To Net: NetName=NetP6_5 Pin=P6-5
+Added Pin To Net: NetName=NetP6_5 Pin=R41-2
+Added Net: Name=NetP6_5
+Added Pin To Net: NetName=NetP6_7 Pin=P6-7
+Added Pin To Net: NetName=NetP6_7 Pin=R42-2
+Added Net: Name=NetP6_7
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_1 Pin=R43-2
+Added Net: Name=NetP8_1
+Added Pin To Net: NetName=NetP8_3 Pin=P8-3
+Added Pin To Net: NetName=NetP8_3 Pin=R44-2
+Added Net: Name=NetP8_3
+Added Pin To Net: NetName=NetP8_5 Pin=P8-5
+Added Pin To Net: NetName=NetP8_5 Pin=R45-2
+Added Net: Name=NetP8_5
+Added Pin To Net: NetName=NetP8_7 Pin=P8-7
+Added Pin To Net: NetName=NetP8_7 Pin=R46-2
+Added Net: Name=NetP8_7
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component C40 Cap Semi

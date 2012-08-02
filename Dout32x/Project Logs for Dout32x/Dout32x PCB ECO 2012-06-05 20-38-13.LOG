@@ -1,0 +1,39 @@
+Added Component: Designator=C0(1608[0603])
+Added Component: Designator=P_Dout_1-8(918510x324)
+Added Component: Designator=P_In(918510x324)
+Added Component: Designator=U1(D016_N)
+Added Pin To Net: NetName=GND Pin=C0-1
+Added Pin To Net: NetName=GND Pin=P_Dout_1-8-9
+Added Pin To Net: NetName=GND Pin=P_In-9
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=OUT_1.1 Pin=P_Dout_1-8-1
+Added Pin To Net: NetName=OUT_1.1 Pin=U1-15
+Added Net: Name=OUT_1.1
+Added Pin To Net: NetName=OUT_1.2 Pin=P_Dout_1-8-2
+Added Pin To Net: NetName=OUT_1.2 Pin=U1-1
+Added Net: Name=OUT_1.2
+Added Pin To Net: NetName=OUT_1.3 Pin=P_Dout_1-8-3
+Added Pin To Net: NetName=OUT_1.3 Pin=U1-2
+Added Net: Name=OUT_1.3
+Added Pin To Net: NetName=OUT_1.4 Pin=P_Dout_1-8-4
+Added Pin To Net: NetName=OUT_1.4 Pin=U1-3
+Added Net: Name=OUT_1.4
+Added Pin To Net: NetName=OUT_1.5 Pin=P_Dout_1-8-5
+Added Pin To Net: NetName=OUT_1.5 Pin=U1-4
+Added Net: Name=OUT_1.5
+Added Pin To Net: NetName=OUT_1.6 Pin=P_Dout_1-8-6
+Added Pin To Net: NetName=OUT_1.6 Pin=U1-5
+Added Net: Name=OUT_1.6
+Added Pin To Net: NetName=OUT_1.7 Pin=P_Dout_1-8-7
+Added Pin To Net: NetName=OUT_1.7 Pin=U1-6
+Added Net: Name=OUT_1.7
+Added Pin To Net: NetName=OUT_1.8 Pin=P_Dout_1-8-8
+Added Pin To Net: NetName=OUT_1.8 Pin=U1-7
+Added Net: Name=OUT_1.8
+Added Pin To Net: NetName=VCC Pin=C0-2
+Added Pin To Net: NetName=VCC Pin=P_In-10
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Net: Name=VCC
+Added Class: Name=Dout32x
+Added Room: Name=Dout32x

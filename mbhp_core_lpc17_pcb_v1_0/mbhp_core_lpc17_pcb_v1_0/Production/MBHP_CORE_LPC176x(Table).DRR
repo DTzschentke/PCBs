@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MBHP_CORE_LPC176x.PcbDoc   7/16/2011  5:09:36 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : MBHP_CORE_LPC176x-Plated.TXT
+ASCII Non-Plated RoundHoles File : MBHP_CORE_LPC176x-NonPlated.TXT
+EIA File   : MBHP_CORE_LPC176x.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.35mm (13.78mil)        Round          2                14.01 mm (0.55 Inch)
+T2        0.7mm (27.559mil)        Round          13               214.34 mm (8.44 Inch)
+T3        0.762mm (30mil)          Round          4                15.24 mm (0.60 Inch)
+T4        0.85mm (33.465mil)       Round          34               323.98 mm (12.76 Inch)
+T5        0.9mm (35.433mil)        Round          318              1357.10 mm (53.43 Inch)
+T6        0.92mm (36.221mil)       Round          4                6.50 mm (0.26 Inch)
+T7        1mm (39.37mil)           Round          12               278.57 mm (10.97 Inch)
+T8        1.1mm (43.307mil)        Round          6                26.08 mm (1.03 Inch)
+T9        1.3mm (51.181mil)        Round          36               213.08 mm (8.39 Inch)
+T10       1.6mm (62.992mil)        Round          2                15.75 mm (0.62 Inch)
+T11       2.3mm (90.551mil)        Round          2                12.04 mm (0.47 Inch)
+T12       1mm (39.37mil)           Round          1         NPTH   0.00 mm (0.00 Inch)
+T13       3mm (118.11mil)          Round          12        NPTH   364.88 mm (14.37 Inch)
+T14       3.3mm (129.921mil)       Round          2         NPTH   11.43 mm (0.45 Inch)
+---------------------------------------------------------------------------
+Totals                                            448              2853.01 mm (112.32 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

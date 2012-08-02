@@ -1,0 +1,66 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Component: Designator=P2(10 pol Header tilted)
+Added Component: Designator=P3(10 pol Header tilted)
+Added Component: Designator=P4(10 pol Header tilted)
+Added Component: Designator=P5(10 pol Header tilted)
+Added Component: Designator=P6(10 pol Header tilted)
+Added Pin To Net: NetName=SW_0 Pin=P1-1
+Added Pin To Net: NetName=SW_1 Pin=P1-2
+Added Pin To Net: NetName=SW_2 Pin=P1-3
+Added Pin To Net: NetName=SW_3 Pin=P1-4
+Added Pin To Net: NetName=SW_4 Pin=P1-5
+Added Pin To Net: NetName=SW_5 Pin=P1-6
+Added Pin To Net: NetName=SW_6 Pin=P1-7
+Added Pin To Net: NetName=SW_7 Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=LED_0 Pin=P2-1
+Added Pin To Net: NetName=LED_1 Pin=P2-2
+Added Pin To Net: NetName=LED_2 Pin=P2-3
+Added Pin To Net: NetName=LED_3 Pin=P2-4
+Added Pin To Net: NetName=LED_4 Pin=P2-5
+Added Pin To Net: NetName=LED_5 Pin=P2-6
+Added Pin To Net: NetName=LED_6 Pin=P2-7
+Added Pin To Net: NetName=LED_7 Pin=P2-8
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=SW_8 Pin=P3-1
+Added Pin To Net: NetName=SW_9 Pin=P3-2
+Added Pin To Net: NetName=SW_10 Pin=P3-3
+Added Pin To Net: NetName=SW_11 Pin=P3-4
+Added Pin To Net: NetName=SW_12 Pin=P3-5
+Added Pin To Net: NetName=SW_13 Pin=P3-6
+Added Pin To Net: NetName=SW_14 Pin=P3-7
+Added Pin To Net: NetName=SW_15 Pin=P3-8
+Added Pin To Net: NetName=GND Pin=P3-9
+Added Pin To Net: NetName=LED_8 Pin=P4-1
+Added Pin To Net: NetName=LED_9 Pin=P4-2
+Added Pin To Net: NetName=LED_10 Pin=P4-3
+Added Pin To Net: NetName=LED_11 Pin=P4-4
+Added Pin To Net: NetName=LED_12 Pin=P4-5
+Added Pin To Net: NetName=LED_13 Pin=P4-6
+Added Pin To Net: NetName=LED_14 Pin=P4-7
+Added Pin To Net: NetName=LED_15 Pin=P4-8
+Added Pin To Net: NetName=GND Pin=P4-9
+Added Pin To Net: NetName=SW_16 Pin=P5-1
+Added Pin To Net: NetName=SW_17 Pin=P5-2
+Added Pin To Net: NetName=SW_18 Pin=P5-3
+Added Pin To Net: NetName=SW_19 Pin=P5-4
+Added Pin To Net: NetName=SW_20 Pin=P5-5
+Added Pin To Net: NetName=SW_21 Pin=P5-6
+Added Pin To Net: NetName=SW_22 Pin=P5-7
+Added Pin To Net: NetName=SW_23 Pin=P5-8
+Added Pin To Net: NetName=GND Pin=P5-9
+Added Pin To Net: NetName=LED_16 Pin=P6-1
+Added Pin To Net: NetName=LED_17 Pin=P6-2
+Added Pin To Net: NetName=LED_18 Pin=P6-3
+Added Pin To Net: NetName=LED_19 Pin=P6-4
+Added Pin To Net: NetName=LED_20 Pin=P6-5
+Added Pin To Net: NetName=LED_21 Pin=P6-6
+Added Pin To Net: NetName=LED_22 Pin=P6-7
+Added Pin To Net: NetName=LED_23 Pin=P6-8
+Added Pin To Net: NetName=GND Pin=P6-9
+Added Member To Class: ClassName=UiBoard Member=Component P2 10 pol Header
+Added Member To Class: ClassName=UiBoard Member=Component P3 10 pol Header
+Added Member To Class: ClassName=UiBoard Member=Component P4 10 pol Header
+Added Member To Class: ClassName=UiBoard Member=Component P5 10 pol Header
+Added Member To Class: ClassName=UiBoard Member=Component P6 10 pol Header
+Added Room: Name=UiBoard

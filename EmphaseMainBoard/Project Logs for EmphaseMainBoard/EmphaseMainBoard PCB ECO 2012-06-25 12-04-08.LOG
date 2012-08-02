@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ADC_0.0_IN Pin=D6-3
+Removed Pin From Net: NetName=ADC_0.1_IN Pin=D7-3
+Removed Pin From Net: NetName=ADC_0.2_IN Pin=D8-3
+Removed Pin From Net: NetName=ADC_0.3_IN Pin=D9-3
+Removed Pin From Net: NetName=ADC_0.4_IN Pin=D10-3
+Removed Pin From Net: NetName=ADC_0.5_IN Pin=D11-3
+Removed Pin From Net: NetName=ADC_0.6_IN Pin=D12-3
+Removed Pin From Net: NetName=ADC_0.7_IN Pin=D13-3
+Added Pin To Net: NetName=ADC_0.0 Pin=D6-3
+Added Pin To Net: NetName=ADC_0.1 Pin=D7-3
+Added Pin To Net: NetName=ADC_0.2 Pin=D8-3
+Added Pin To Net: NetName=ADC_0.3 Pin=D9-3
+Added Pin To Net: NetName=ADC_0.4 Pin=D10-3
+Added Pin To Net: NetName=ADC_0.5 Pin=D11-3
+Added Pin To Net: NetName=ADC_0.6 Pin=D12-3
+Added Pin To Net: NetName=ADC_0.7 Pin=D13-3

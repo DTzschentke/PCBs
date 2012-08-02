@@ -1,0 +1,66 @@
+Added Component: Designator=INx(10 pol Header)
+Added Component: Designator=INy(HDR1X10)
+Added Component: Designator=OUTx(10 pol Header)
+Added Component: Designator=OUTy(HDR1X10)
+Added Pin To Net: NetName=IN_1 Pin=INx-1
+Added Pin To Net: NetName=IN_1 Pin=INy-1
+Added Net: Name=IN_1
+Added Pin To Net: NetName=IN_2 Pin=INx-2
+Added Pin To Net: NetName=IN_2 Pin=INy-2
+Added Net: Name=IN_2
+Added Pin To Net: NetName=IN_3 Pin=INx-3
+Added Pin To Net: NetName=IN_3 Pin=INy-3
+Added Net: Name=IN_3
+Added Pin To Net: NetName=IN_4 Pin=INx-4
+Added Pin To Net: NetName=IN_4 Pin=INy-4
+Added Net: Name=IN_4
+Added Pin To Net: NetName=IN_5 Pin=INx-5
+Added Pin To Net: NetName=IN_5 Pin=INy-5
+Added Net: Name=IN_5
+Added Pin To Net: NetName=IN_6 Pin=INx-6
+Added Pin To Net: NetName=IN_6 Pin=INy-6
+Added Net: Name=IN_6
+Added Pin To Net: NetName=IN_7 Pin=INx-7
+Added Pin To Net: NetName=IN_7 Pin=INy-7
+Added Net: Name=IN_7
+Added Pin To Net: NetName=IN_8 Pin=INx-8
+Added Pin To Net: NetName=IN_8 Pin=INy-8
+Added Net: Name=IN_8
+Added Pin To Net: NetName=IN_9 Pin=INx-9
+Added Pin To Net: NetName=IN_9 Pin=INy-9
+Added Net: Name=IN_9
+Added Pin To Net: NetName=IN_10 Pin=INx-10
+Added Pin To Net: NetName=IN_10 Pin=INy-10
+Added Net: Name=IN_10
+Added Pin To Net: NetName=OUT_1 Pin=OUTx-1
+Added Pin To Net: NetName=OUT_1 Pin=OUTy-1
+Added Net: Name=OUT_1
+Added Pin To Net: NetName=OUT_2 Pin=OUTx-2
+Added Pin To Net: NetName=OUT_2 Pin=OUTy-2
+Added Net: Name=OUT_2
+Added Pin To Net: NetName=OUT_3 Pin=OUTx-3
+Added Pin To Net: NetName=OUT_3 Pin=OUTy-3
+Added Net: Name=OUT_3
+Added Pin To Net: NetName=OUT_4 Pin=OUTx-4
+Added Pin To Net: NetName=OUT_4 Pin=OUTy-4
+Added Net: Name=OUT_4
+Added Pin To Net: NetName=OUT_5 Pin=OUTx-5
+Added Pin To Net: NetName=OUT_5 Pin=OUTy-5
+Added Net: Name=OUT_5
+Added Pin To Net: NetName=OUT_6 Pin=OUTx-6
+Added Pin To Net: NetName=OUT_6 Pin=OUTy-6
+Added Net: Name=OUT_6
+Added Pin To Net: NetName=OUT_7 Pin=OUTx-7
+Added Pin To Net: NetName=OUT_7 Pin=OUTy-7
+Added Net: Name=OUT_7
+Added Pin To Net: NetName=OUT_8 Pin=OUTx-8
+Added Pin To Net: NetName=OUT_8 Pin=OUTy-8
+Added Net: Name=OUT_8
+Added Pin To Net: NetName=OUT_9 Pin=OUTx-9
+Added Pin To Net: NetName=OUT_9 Pin=OUTy-9
+Added Net: Name=OUT_9
+Added Pin To Net: NetName=OUT_10 Pin=OUTx-10
+Added Pin To Net: NetName=OUT_10 Pin=OUTy-10
+Added Net: Name=OUT_10
+Added Class: Name=Header-PinHeader
+Added Room: Name=Header-PinHeader

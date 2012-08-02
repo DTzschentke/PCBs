@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: EmphaseMainBoard.PcbDoc   2012-08-01  14:12:52
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : EmphaseMainBoard-RoundHoles.TXT
+ASCII SlotHoles File : EmphaseMainBoard-SlotHoles.TXT
+EIA File   : EmphaseMainBoard.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.457mm (17.992mil)      Round          140              1241.54 mm (48.88 Inch)
+T2        0.6mm (23.622mil)        Round          14               117.22 mm (4.61 Inch)
+T3        0.6mm (23.622mil)        Slot           5                7870.88 mm (309.88 Inch)
+T4        0.762mm (30mil)          Round          1                0.00 mm (0.00 Inch)
+T5        0.8mm (31.496mil)        Round          98               410.68 mm (16.17 Inch)
+T6        0.8mm (31.496mil)        Slot           4                7822.83 mm (307.99 Inch)
+T7        0.9mm (35.433mil)        Round          173              970.75 mm (38.22 Inch)
+T8        1.3mm (51.181mil)        Round          2                5.00 mm (0.20 Inch)
+T9        3.2mm (125.984mil)       Round          4                380.00 mm (14.96 Inch)
+T10       3.4mm (133.858mil)       Round          2                11.43 mm (0.45 Inch)
+---------------------------------------------------------------------------
+Totals                                            443              18830.33 mm (741.35 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

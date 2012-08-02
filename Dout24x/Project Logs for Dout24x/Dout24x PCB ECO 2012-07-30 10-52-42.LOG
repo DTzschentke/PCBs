@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=OUT_1.5 Pin=RA_1.2-1
+Removed Pin From Net: NetName=OUT_1.6 Pin=RA_1.2-2
+Removed Pin From Net: NetName=OUT_1.7 Pin=RA_1.2-3
+Removed Pin From Net: NetName=OUT_1.8 Pin=RA_1.2-4
+Removed Member From Class: ClassName=Dout24x Member=RA_1.2
+Added Component: Designator=R1.5(3-0603)
+Added Component: Designator=R1.6(3-0603)
+Added Component: Designator=R1.7(3-0603)
+Added Component: Designator=R1.8(3-0603)
+Added Member To Class: ClassName=Dout24x Member=Component R1.5 Res2
+Added Member To Class: ClassName=Dout24x Member=Component R1.6 Res2
+Added Member To Class: ClassName=Dout24x Member=Component R1.7 Res2
+Added Member To Class: ClassName=Dout24x Member=Component R1.8 Res2

@@ -1,0 +1,30 @@
+Added Component: Designator=Emphase(10 pol Header)
+Added Component: Designator=MIOS(10 pol Header)
+Added Pin To Net: NetName=CL Pin=Emphase-1
+Added Pin To Net: NetName=CL Pin=MIOS-7
+Added Pin To Net: NetName=CL Pin=MIOS-8
+Added Net: Name=CL
+Added Pin To Net: NetName=GND Pin=Emphase-2
+Added Pin To Net: NetName=GND Pin=Emphase-4
+Added Pin To Net: NetName=GND Pin=Emphase-6
+Added Pin To Net: NetName=GND Pin=Emphase-9
+Added Pin To Net: NetName=GND Pin=MIOS-1
+Added Pin To Net: NetName=GND Pin=MIOS-2
+Added Net: Name=GND
+Added Pin To Net: NetName=ID Pin=Emphase-5
+Added Pin To Net: NetName=ID Pin=MIOS-5
+Added Net: Name=ID
+Added Pin To Net: NetName=IG Pin=Emphase-8
+Added Pin To Net: NetName=IG Pin=MIOS-9
+Added Net: Name=IG
+Added Pin To Net: NetName=OD Pin=Emphase-3
+Added Pin To Net: NetName=OD Pin=MIOS-6
+Added Net: Name=OD
+Added Pin To Net: NetName=OS Pin=Emphase-7
+Added Pin To Net: NetName=OS Pin=MIOS-10
+Added Net: Name=OS
+Added Pin To Net: NetName=VCC Pin=Emphase-10
+Added Pin To Net: NetName=VCC Pin=MIOS-3
+Added Pin To Net: NetName=VCC Pin=MIOS-4
+Added Net: Name=VCC
+Added Class: Name=MIOS-Emphase

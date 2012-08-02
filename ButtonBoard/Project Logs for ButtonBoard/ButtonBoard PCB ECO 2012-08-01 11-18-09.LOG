@@ -1,0 +1,32 @@
+Added Pin To Net: NetName=S7 Pin=P?-2
+Added Pin To Net: NetName=S6 Pin=P?-4
+Added Pin To Net: NetName=S5 Pin=P?-6
+Added Pin To Net: NetName=S4 Pin=P?-8
+Added Pin To Net: NetName=S3 Pin=P?-10
+Added Pin To Net: NetName=S2 Pin=P?-12
+Added Pin To Net: NetName=S1 Pin=P?-14
+Added Pin To Net: NetName=S0 Pin=P?-16
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=R7-2
+Added Net: Name=NetP?_1
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=NetP?_3 Pin=R6-2
+Added Net: Name=NetP?_3
+Added Pin To Net: NetName=NetP?_5 Pin=P?-5
+Added Pin To Net: NetName=NetP?_5 Pin=R5-2
+Added Net: Name=NetP?_5
+Added Pin To Net: NetName=NetP?_7 Pin=P?-7
+Added Pin To Net: NetName=NetP?_7 Pin=R4-2
+Added Net: Name=NetP?_7
+Added Pin To Net: NetName=NetP?_9 Pin=P?-9
+Added Pin To Net: NetName=NetP?_9 Pin=R3-2
+Added Net: Name=NetP?_9
+Added Pin To Net: NetName=NetP?_11 Pin=P?-11
+Added Pin To Net: NetName=NetP?_11 Pin=R2-2
+Added Net: Name=NetP?_11
+Added Pin To Net: NetName=NetP?_13 Pin=P?-13
+Added Pin To Net: NetName=NetP?_13 Pin=R1-2
+Added Net: Name=NetP?_13
+Added Pin To Net: NetName=NetP?_15 Pin=P?-15
+Added Pin To Net: NetName=NetP?_15 Pin=R0-2
+Added Net: Name=NetP?_15

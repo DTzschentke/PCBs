@@ -1,0 +1,5 @@
+Change Component Comment : Designator=P14 Old Comment=16 pol Header New Comment=LCD_1
+Change Component Comment : Designator=P16 Old Comment=16 pol Header New Comment=LCD_2
+Change Component Comment : Designator=J10 Old Comment=Jumper New Comment=VSEL_CLAV
+Change Component Comment : Designator=J1 Old Comment=Jumper New Comment=VSEL_DIO_SPI_ADC
+Change Component Comment : Designator=J11 Old Comment=Jumper New Comment=VSEL_LCD

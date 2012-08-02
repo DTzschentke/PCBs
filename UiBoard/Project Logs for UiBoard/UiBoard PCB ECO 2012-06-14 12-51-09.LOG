@@ -1,0 +1,33 @@
+Added Component: Designator=S8(Marquardt Taster 6425)
+Added Component: Designator=S9(Marquardt Taster 6425)
+Added Component: Designator=S10(Marquardt Taster 6425)
+Added Component: Designator=S11(Marquardt Taster 6425)
+Added Pin To Net: NetName=GND Pin=S8-2
+Added Pin To Net: NetName=GND Pin=S8-4
+Added Pin To Net: NetName=GND Pin=S9-2
+Added Pin To Net: NetName=GND Pin=S9-4
+Added Pin To Net: NetName=GND Pin=S10-2
+Added Pin To Net: NetName=GND Pin=S10-4
+Added Pin To Net: NetName=GND Pin=S11-2
+Added Pin To Net: NetName=GND Pin=S11-4
+Added Pin To Net: NetName=LED_8 Pin=S8-3
+Added Net: Name=LED_8
+Added Pin To Net: NetName=LED_9 Pin=S9-3
+Added Net: Name=LED_9
+Added Pin To Net: NetName=LED_10 Pin=S10-3
+Added Net: Name=LED_10
+Added Pin To Net: NetName=LED_11 Pin=S11-3
+Added Net: Name=LED_11
+Added Pin To Net: NetName=SW_8 Pin=S8-1
+Added Net: Name=SW_8
+Added Pin To Net: NetName=SW_9 Pin=S9-1
+Added Net: Name=SW_9
+Added Pin To Net: NetName=SW_10 Pin=S10-1
+Added Net: Name=SW_10
+Added Pin To Net: NetName=SW_11 Pin=S11-1
+Added Net: Name=SW_11
+Added Member To Class: ClassName=UiBoard Member=Component S8 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S9 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S10 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S11 Switch + LED
+Added Room: Name=UiBoard

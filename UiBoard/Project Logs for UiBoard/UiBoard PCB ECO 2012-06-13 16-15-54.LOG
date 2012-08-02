@@ -1,0 +1,145 @@
+Added Component: Designator=S1(Marquardt Taster 6425)
+Added Component: Designator=S2(Marquardt Taster 6425)
+Added Component: Designator=S3(Marquardt Taster 6425)
+Added Component: Designator=S4(Marquardt Taster 6425)
+Added Component: Designator=S5(Marquardt Taster 6425)
+Added Component: Designator=S6(Marquardt Taster 6425)
+Added Component: Designator=S7(Marquardt Taster 6425)
+Added Component: Designator=S8(Marquardt Taster 6425)
+Added Component: Designator=S9(Marquardt Taster 6425)
+Added Component: Designator=S10(Marquardt Taster 6425)
+Added Component: Designator=S11(Marquardt Taster 6425)
+Added Component: Designator=S12(Marquardt Taster 6425)
+Added Component: Designator=S13(Marquardt Taster 6425)
+Added Component: Designator=S14(Marquardt Taster 6425)
+Added Component: Designator=S15(Marquardt Taster 6425)
+Added Component: Designator=S16(Marquardt Taster 6425)
+Added Component: Designator=S17(Marquardt Taster 6425)
+Added Component: Designator=S18(Marquardt Taster 6425)
+Added Component: Designator=S19(Marquardt Taster 6425)
+Added Component: Designator=S20(Marquardt Taster 6425)
+Added Component: Designator=S21(Marquardt Taster 6425)
+Added Component: Designator=S22(Marquardt Taster 6425)
+Added Component: Designator=S23(Marquardt Taster 6425)
+Added Component: Designator=S24(Marquardt Taster 6425)
+Added Pin To Net: NetName=SW_0 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=LED_0 Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=SW_1 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=LED_1 Pin=S2-3
+Added Pin To Net: NetName=GND Pin=S2-4
+Added Pin To Net: NetName=SW_2 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=LED_2 Pin=S3-3
+Added Pin To Net: NetName=GND Pin=S3-4
+Added Pin To Net: NetName=SW_3 Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=LED_3 Pin=S4-3
+Added Pin To Net: NetName=GND Pin=S4-4
+Added Pin To Net: NetName=SW_4 Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Pin To Net: NetName=LED_4 Pin=S5-3
+Added Pin To Net: NetName=GND Pin=S5-4
+Added Pin To Net: NetName=SW_5 Pin=S6-1
+Added Pin To Net: NetName=GND Pin=S6-2
+Added Pin To Net: NetName=LED_5 Pin=S6-3
+Added Pin To Net: NetName=GND Pin=S6-4
+Added Pin To Net: NetName=SW_6 Pin=S7-1
+Added Pin To Net: NetName=GND Pin=S7-2
+Added Pin To Net: NetName=LED_6 Pin=S7-3
+Added Pin To Net: NetName=GND Pin=S7-4
+Added Pin To Net: NetName=SW_7 Pin=S8-1
+Added Pin To Net: NetName=GND Pin=S8-2
+Added Pin To Net: NetName=LED_7 Pin=S8-3
+Added Pin To Net: NetName=GND Pin=S8-4
+Added Pin To Net: NetName=SW_8 Pin=S9-1
+Added Pin To Net: NetName=GND Pin=S9-2
+Added Pin To Net: NetName=LED_8 Pin=S9-3
+Added Pin To Net: NetName=GND Pin=S9-4
+Added Pin To Net: NetName=SW_9 Pin=S10-1
+Added Pin To Net: NetName=GND Pin=S10-2
+Added Pin To Net: NetName=LED_9 Pin=S10-3
+Added Pin To Net: NetName=GND Pin=S10-4
+Added Pin To Net: NetName=SW_10 Pin=S11-1
+Added Pin To Net: NetName=GND Pin=S11-2
+Added Pin To Net: NetName=LED_10 Pin=S11-3
+Added Pin To Net: NetName=GND Pin=S11-4
+Added Pin To Net: NetName=SW_11 Pin=S12-1
+Added Pin To Net: NetName=GND Pin=S12-2
+Added Pin To Net: NetName=LED_11 Pin=S12-3
+Added Pin To Net: NetName=GND Pin=S12-4
+Added Pin To Net: NetName=SW_12 Pin=S13-1
+Added Pin To Net: NetName=GND Pin=S13-2
+Added Pin To Net: NetName=LED_12 Pin=S13-3
+Added Pin To Net: NetName=GND Pin=S13-4
+Added Pin To Net: NetName=SW_13 Pin=S14-1
+Added Pin To Net: NetName=GND Pin=S14-2
+Added Pin To Net: NetName=LED_13 Pin=S14-3
+Added Pin To Net: NetName=GND Pin=S14-4
+Added Pin To Net: NetName=SW_14 Pin=S15-1
+Added Pin To Net: NetName=GND Pin=S15-2
+Added Pin To Net: NetName=LED_14 Pin=S15-3
+Added Pin To Net: NetName=GND Pin=S15-4
+Added Pin To Net: NetName=SW_15 Pin=S16-1
+Added Pin To Net: NetName=GND Pin=S16-2
+Added Pin To Net: NetName=SW_15 Pin=S16-3
+Added Pin To Net: NetName=GND Pin=S16-4
+Added Pin To Net: NetName=SW_16 Pin=S17-1
+Added Pin To Net: NetName=GND Pin=S17-2
+Added Pin To Net: NetName=LED_16 Pin=S17-3
+Added Pin To Net: NetName=GND Pin=S17-4
+Added Pin To Net: NetName=SW_17 Pin=S18-1
+Added Pin To Net: NetName=GND Pin=S18-2
+Added Pin To Net: NetName=LED_17 Pin=S18-3
+Added Pin To Net: NetName=GND Pin=S18-4
+Added Pin To Net: NetName=SW_18 Pin=S19-1
+Added Pin To Net: NetName=GND Pin=S19-2
+Added Pin To Net: NetName=LED_18 Pin=S19-3
+Added Pin To Net: NetName=GND Pin=S19-4
+Added Pin To Net: NetName=SW_19 Pin=S20-1
+Added Pin To Net: NetName=GND Pin=S20-2
+Added Pin To Net: NetName=LED_19 Pin=S20-3
+Added Pin To Net: NetName=GND Pin=S20-4
+Added Pin To Net: NetName=SW_20 Pin=S21-1
+Added Pin To Net: NetName=GND Pin=S21-2
+Added Pin To Net: NetName=LED_20 Pin=S21-3
+Added Pin To Net: NetName=GND Pin=S21-4
+Added Pin To Net: NetName=SW_21 Pin=S22-1
+Added Pin To Net: NetName=GND Pin=S22-2
+Added Pin To Net: NetName=LED_21 Pin=S22-3
+Added Pin To Net: NetName=GND Pin=S22-4
+Added Pin To Net: NetName=SW_22 Pin=S23-1
+Added Pin To Net: NetName=GND Pin=S23-2
+Added Pin To Net: NetName=LED_22 Pin=S23-3
+Added Pin To Net: NetName=GND Pin=S23-4
+Added Pin To Net: NetName=SW_23 Pin=S24-1
+Added Pin To Net: NetName=GND Pin=S24-2
+Added Pin To Net: NetName=LED_23 Pin=S24-3
+Added Pin To Net: NetName=GND Pin=S24-4
+Added Member To Class: ClassName=UiBoard Member=Component S1 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S2 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S3 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S4 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S5 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S6 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S7 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S8 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S9 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S10 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S11 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S12 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S13 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S14 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S15 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S16 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S17 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S18 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S19 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S20 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S21 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S22 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S23 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S24 Switch + LED
+Added Room: Name=UiBoard

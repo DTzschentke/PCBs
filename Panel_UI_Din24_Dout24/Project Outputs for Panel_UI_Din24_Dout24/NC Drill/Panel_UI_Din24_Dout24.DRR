@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Panel_UI_Din24_Dout24.PcbDoc   2012-08-02  12:30:57
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Panel_UI_Din24_Dout24.TXT
+EIA File   : Panel_UI_Din24_Dout24.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4572mm (18mil)         Round          378              3626.13 mm (142.76 Inch)
+T2        0.8mm (31.496mil)        Round          192              3028.20 mm (119.22 Inch)
+T3        0.9mm (35.433mil)        Round          476              2483.10 mm (97.76 Inch)
+T4        1mm (39.37mil)           Round          984              7929.03 mm (312.17 Inch)
+T5        3.2mm (125.984mil)       Round          124              4740.55 mm (186.64 Inch)
+---------------------------------------------------------------------------
+Totals                                            2154             21807.02 mm (858.54 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

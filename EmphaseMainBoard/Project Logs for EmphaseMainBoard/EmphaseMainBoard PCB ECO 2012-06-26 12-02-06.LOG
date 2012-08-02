@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=ETH_TD_P Pin=J2-1
+Removed Pin From Net: NetName=ETH_TD_N Pin=J2-2
+Removed Pin From Net: NetName=ETH_RD_P Pin=J2-3
+Removed Pin From Net: NetName=ETH_RD_N Pin=J2-6
+Removed Member From Class: ClassName=EmphaseMainBoard Member=J2
+Added Component: Designator=J16(HDR1X2)
+Added Component: Designator=J17(HDR1X2)
+Added Component: Designator=P17(Ethernet RJ-45)
+Added Pin To Net: NetName=GND Pin=J16-2
+Added Pin To Net: NetName=GND Pin=J17-2
+Added Pin To Net: NetName=ETH_TD_P Pin=P17-1
+Added Pin To Net: NetName=ETH_TD_N Pin=P17-3
+Added Pin To Net: NetName=ETH_RD_P Pin=P17-4
+Added Pin To Net: NetName=ETH_RD_N Pin=P17-5
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Pin To Net: NetName=NetJ16_1 Pin=P17-2
+Added Net: Name=NetJ16_1
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-1
+Added Pin To Net: NetName=NetJ17_1 Pin=P17-14
+Added Pin To Net: NetName=NetJ17_1 Pin=P17-14
+Added Net: Name=NetJ17_1
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component J16 ETH_GND to GND
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component J17 ETH_SHIELD to GND
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component P17 Ethernet

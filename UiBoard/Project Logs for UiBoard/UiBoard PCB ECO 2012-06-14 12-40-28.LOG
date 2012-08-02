@@ -1,0 +1,4 @@
+Added Net: Name=GND
+Added Net: Name=LED_0
+Added Net: Name=SW_0
+Added Class: Name=UiBoard

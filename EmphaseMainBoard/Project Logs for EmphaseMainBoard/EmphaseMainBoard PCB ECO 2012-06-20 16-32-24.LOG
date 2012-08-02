@@ -1,0 +1,12 @@
+Added Component: Designator=P1b(10 pol Header tilted)
+Added Pin To Net: NetName=5V Pin=P1b-1
+Added Pin To Net: NetName=JTAG_TMS Pin=P1b-2
+Added Pin To Net: NetName=GND Pin=P1b-3
+Added Pin To Net: NetName=JTAG_TCK Pin=P1b-4
+Added Pin To Net: NetName=GND Pin=P1b-5
+Added Pin To Net: NetName=JTAG_TDO Pin=P1b-6
+Added Pin To Net: NetName=JTAG_RTCK Pin=P1b-7
+Added Pin To Net: NetName=JTAG_TDI Pin=P1b-8
+Added Pin To Net: NetName=GND Pin=P1b-9
+Added Pin To Net: NetName=JTAG_RST Pin=P1b-10
+Added Member To Class: ClassName=EmphaseMainBoard Member=Component P1b JTAG mini

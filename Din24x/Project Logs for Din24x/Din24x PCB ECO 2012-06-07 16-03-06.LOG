@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IN_1.5 Pin=RA_1.2-1
+Removed Pin From Net: NetName=IN_1.6 Pin=RA_1.2-2
+Removed Pin From Net: NetName=IN_1.7 Pin=RA_1.2-3
+Removed Pin From Net: NetName=IN_1.8 Pin=RA_1.2-4
+Added Pin To Net: NetName=IN_1.8 Pin=RA_1.2-1
+Added Pin To Net: NetName=IN_1.7 Pin=RA_1.2-2
+Added Pin To Net: NetName=IN_1.6 Pin=RA_1.2-3
+Added Pin To Net: NetName=IN_1.5 Pin=RA_1.2-4
+Added Room: Name=Din24x

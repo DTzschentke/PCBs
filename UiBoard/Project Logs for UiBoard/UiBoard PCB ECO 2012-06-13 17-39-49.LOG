@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=SW_14 Pin=S16-1
+Removed Pin From Net: NetName=SW_15 Pin=S17-1
+Removed Pin From Net: NetName=SW_15 Pin=S17-3
+Removed Pin From Net: NetName=GND Pin=S22-2
+Removed Pin From Net: NetName=GND Pin=S22-4
+Removed Pin From Net: NetName=GND Pin=S24-2
+Removed Pin From Net: NetName=GND Pin=S24-4
+Removed Member From Class: ClassName=UiBoard Member=S25
+Removed Member From Class: ClassName=UiBoard Member=S26
+Removed Member From Class: ClassName=UiBoard Member=S27
+Change Component Designator: OldDesignator=S25 NewDesignator=S22
+Change Component Designator: OldDesignator=S26 NewDesignator=S23
+Change Component Designator: OldDesignator=S27 NewDesignator=S24
+Added Component: Designator=S9(Marquardt Taster 6425)
+Added Component: Designator=S18(Marquardt Taster 6425)
+Added Pin To Net: NetName=GND Pin=S9-2
+Added Pin To Net: NetName=GND Pin=S9-4
+Added Pin To Net: NetName=SW_15 Pin=S16-1
+Added Pin To Net: NetName=SW_15 Pin=S16-3
+Added Pin To Net: NetName=SW_14 Pin=S18-1
+Added Pin To Net: NetName=GND Pin=S18-2
+Added Pin To Net: NetName=GND Pin=S18-4
+Change Net Name : Old Net Name=LED_8 New Net Name=LED_9
+Change Net Name : Old Net Name=LED_9 New Net Name=LED_10
+Change Net Name : Old Net Name=LED_10 New Net Name=LED_11
+Change Net Name : Old Net Name=LED_11 New Net Name=LED_12
+Change Net Name : Old Net Name=LED_12 New Net Name=LED_13
+Change Net Name : Old Net Name=LED_13 New Net Name=LED_14
+Change Net Name : Old Net Name=LED_16 New Net Name=LED_18
+Change Net Name : Old Net Name=LED_17 New Net Name=LED_19
+Change Net Name : Old Net Name=LED_18 New Net Name=LED_20
+Change Net Name : Old Net Name=SW_8 New Net Name=SW_9
+Change Net Name : Old Net Name=SW_9 New Net Name=SW_10
+Change Net Name : Old Net Name=SW_10 New Net Name=SW_11
+Change Net Name : Old Net Name=SW_11 New Net Name=SW_12
+Change Net Name : Old Net Name=SW_12 New Net Name=SW_13
+Change Net Name : Old Net Name=SW_13 New Net Name=SW_14
+Change Net Name : Old Net Name=SW_14 New Net Name=SW_17
+Change Net Name : Old Net Name=SW_16 New Net Name=SW_18
+Change Net Name : Old Net Name=SW_17 New Net Name=SW_19
+Change Net Name : Old Net Name=SW_18 New Net Name=SW_20
+Added Pin To Net: NetName=LED_8 Pin=S9-3
+Added Net: Name=LED_8
+Added Pin To Net: NetName=LED_16 Pin=S17-3
+Added Net: Name=LED_16
+Added Pin To Net: NetName=LED_17 Pin=S18-3
+Added Net: Name=LED_17
+Added Pin To Net: NetName=SW_8 Pin=S9-1
+Added Net: Name=SW_8
+Added Pin To Net: NetName=SW_16 Pin=S17-1
+Added Net: Name=SW_16
+Added Room: Name=UiBoard

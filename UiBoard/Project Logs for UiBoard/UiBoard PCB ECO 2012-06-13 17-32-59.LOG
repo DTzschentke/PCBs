@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SW_0 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=LED_0 Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Member From Class: ClassName=UiBoard Member=S1
+Added Pin To Net: NetName=SW_0 Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=LED_0 Pin=S?-3
+Added Pin To Net: NetName=GND Pin=S?-4

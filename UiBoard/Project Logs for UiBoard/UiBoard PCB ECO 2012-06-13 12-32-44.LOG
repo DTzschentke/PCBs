@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Added Component: Designator=S2(Marquardt Taster 6425)
+Added Component: Designator=S3(Marquardt Taster 6425)
+Added Component: Designator=S4(Marquardt Taster 6425)
+Added Component: Designator=S5(Marquardt Taster 6425)
+Added Component: Designator=S6(Marquardt Taster 6425)
+Added Component: Designator=S7(Marquardt Taster 6425)
+Added Component: Designator=S8(Marquardt Taster 6425)
+Added Member To Class: ClassName=UiBoard Member=Component S2 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S3 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S4 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S5 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S6 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S7 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S8 Switch + LED
+Added Room: Name=UiBoard

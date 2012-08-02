@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3V3 Pin=J3-1
+Removed Pin From Net: NetName=NetJ3_2 Pin=J3-2
+Removed Pin From Net: NetName=5V Pin=J3-3
+Removed Member From Class: ClassName=EmphaseMainBoard Member=J3
+Change Component Comment : Designator=D5 Old Comment=LED_3V3_Good New Comment=3V3_Good
+Change Component Comment : Designator=D4 Old Comment=LED_5V_Good New Comment=5V_Good
+Change Component Comment : Designator=D2 Old Comment=LED_Error New Comment=Error
+Change Component Comment : Designator=D1 Old Comment=LED_Task_Overrun New Comment=Task_Overrun
+Added Pin To Net: NetName=NetJ3_2 Pin=C15-2
+Added Pin To Net: NetName=NetJ3_2 Pin=C16-1
+Added Pin To Net: NetName=NetJ3_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U3-24
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=V_CLAV

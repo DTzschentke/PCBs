@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Projekte\Keyboard\PCBs\EmphaseMainBoard\EmphaseMainBoard.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=emphasemainboard-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=emphasemainboard-slotholes.txt|LayerPairs=gtl,gbl

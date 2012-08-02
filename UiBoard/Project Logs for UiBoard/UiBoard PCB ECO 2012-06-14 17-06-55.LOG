@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=Px3
+Change Component Designator: OldDesignator=P3 NewDesignator=Px5
+Change Component Designator: OldDesignator=P4 NewDesignator=Px2
+Change Component Designator: OldDesignator=P5 NewDesignator=Px4
+Added Room: Name=UiBoard

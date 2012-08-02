@@ -1,0 +1,32 @@
+Added Pin To Net: NetName=OUT_1.1 Pin=R1.1-1
+Added Pin To Net: NetName=OUT_1.2 Pin=R1.2-1
+Added Pin To Net: NetName=OUT_1.3 Pin=R1.3-1
+Added Pin To Net: NetName=OUT_1.4 Pin=R1.4-1
+Added Pin To Net: NetName=OUT_1.5 Pin=R1.5-1
+Added Pin To Net: NetName=OUT_1.6 Pin=R1.6-1
+Added Pin To Net: NetName=OUT_1.7 Pin=R1.7-1
+Added Pin To Net: NetName=OUT_1.8 Pin=R1.8-1
+Added Pin To Net: NetName=NetR1.1_2 Pin=R1.1-2
+Added Pin To Net: NetName=NetR1.1_2 Pin=U1-15
+Added Net: Name=NetR1.1_2
+Added Pin To Net: NetName=NetR1.2_2 Pin=R1.2-2
+Added Pin To Net: NetName=NetR1.2_2 Pin=U1-1
+Added Net: Name=NetR1.2_2
+Added Pin To Net: NetName=NetR1.3_2 Pin=R1.3-2
+Added Pin To Net: NetName=NetR1.3_2 Pin=U1-2
+Added Net: Name=NetR1.3_2
+Added Pin To Net: NetName=NetR1.4_2 Pin=R1.4-2
+Added Pin To Net: NetName=NetR1.4_2 Pin=U1-3
+Added Net: Name=NetR1.4_2
+Added Pin To Net: NetName=NetR1.5_2 Pin=R1.5-2
+Added Pin To Net: NetName=NetR1.5_2 Pin=U1-4
+Added Net: Name=NetR1.5_2
+Added Pin To Net: NetName=NetR1.6_2 Pin=R1.6-2
+Added Pin To Net: NetName=NetR1.6_2 Pin=U1-5
+Added Net: Name=NetR1.6_2
+Added Pin To Net: NetName=NetR1.7_2 Pin=R1.7-2
+Added Pin To Net: NetName=NetR1.7_2 Pin=U1-6
+Added Net: Name=NetR1.7_2
+Added Pin To Net: NetName=NetR1.8_2 Pin=R1.8-2
+Added Pin To Net: NetName=NetR1.8_2 Pin=U1-7
+Added Net: Name=NetR1.8_2

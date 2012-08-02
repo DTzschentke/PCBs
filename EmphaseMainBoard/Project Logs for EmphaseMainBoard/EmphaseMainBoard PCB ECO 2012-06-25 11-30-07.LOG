@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=ADC_0.0 Pin=C39-2
+Added Pin To Net: NetName=ADC_0.1 Pin=C40-2
+Added Pin To Net: NetName=ADC_0.2 Pin=C41-2
+Added Pin To Net: NetName=ADC_0.3 Pin=C42-2
+Added Pin To Net: NetName=ADC_0.4 Pin=C43-2
+Added Pin To Net: NetName=ADC_0.5 Pin=C44-2
+Added Pin To Net: NetName=ADC_0.6 Pin=C45-2
+Added Pin To Net: NetName=ADC_0.7 Pin=C46-2
+Added Pin To Net: NetName=ADC_0.0 Pin=D6-3
+Added Pin To Net: NetName=ADC_0.1 Pin=D7-3
+Added Pin To Net: NetName=ADC_0.2 Pin=D8-3
+Added Pin To Net: NetName=ADC_0.3 Pin=D9-3
+Added Pin To Net: NetName=ADC_0.4 Pin=D10-3
+Added Pin To Net: NetName=ADC_0.5 Pin=D11-3
+Added Pin To Net: NetName=ADC_0.6 Pin=D12-3
+Added Pin To Net: NetName=ADC_0.7 Pin=D13-3

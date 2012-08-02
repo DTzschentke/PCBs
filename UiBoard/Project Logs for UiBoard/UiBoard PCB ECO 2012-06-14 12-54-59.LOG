@@ -1,0 +1,97 @@
+Added Component: Designator=S12(Marquardt Taster 6425)
+Added Component: Designator=S13(Marquardt Taster 6425)
+Added Component: Designator=S14(Marquardt Taster 6425)
+Added Component: Designator=S15(Marquardt Taster 6425)
+Added Component: Designator=S16(Marquardt Taster 6425)
+Added Component: Designator=S17(Marquardt Taster 6425)
+Added Component: Designator=S18(Marquardt Taster 6425)
+Added Component: Designator=S19(Marquardt Taster 6425)
+Added Component: Designator=S20(Marquardt Taster 6425)
+Added Component: Designator=S21(Marquardt Taster 6425)
+Added Component: Designator=S22(Marquardt Taster 6425)
+Added Component: Designator=S23(Marquardt Taster 6425)
+Added Pin To Net: NetName=GND Pin=S12-2
+Added Pin To Net: NetName=GND Pin=S12-4
+Added Pin To Net: NetName=GND Pin=S13-2
+Added Pin To Net: NetName=GND Pin=S13-4
+Added Pin To Net: NetName=GND Pin=S14-2
+Added Pin To Net: NetName=GND Pin=S14-4
+Added Pin To Net: NetName=GND Pin=S15-2
+Added Pin To Net: NetName=GND Pin=S15-4
+Added Pin To Net: NetName=GND Pin=S16-2
+Added Pin To Net: NetName=GND Pin=S16-4
+Added Pin To Net: NetName=GND Pin=S17-2
+Added Pin To Net: NetName=GND Pin=S17-4
+Added Pin To Net: NetName=GND Pin=S18-2
+Added Pin To Net: NetName=GND Pin=S18-4
+Added Pin To Net: NetName=GND Pin=S19-2
+Added Pin To Net: NetName=GND Pin=S19-4
+Added Pin To Net: NetName=GND Pin=S20-2
+Added Pin To Net: NetName=GND Pin=S20-4
+Added Pin To Net: NetName=GND Pin=S21-2
+Added Pin To Net: NetName=GND Pin=S21-4
+Added Pin To Net: NetName=GND Pin=S22-2
+Added Pin To Net: NetName=GND Pin=S22-4
+Added Pin To Net: NetName=GND Pin=S23-2
+Added Pin To Net: NetName=GND Pin=S23-4
+Added Pin To Net: NetName=LED_12 Pin=S12-3
+Added Net: Name=LED_12
+Added Pin To Net: NetName=LED_13 Pin=S13-3
+Added Net: Name=LED_13
+Added Pin To Net: NetName=LED_14 Pin=S14-3
+Added Net: Name=LED_14
+Added Pin To Net: NetName=LED_15 Pin=S15-3
+Added Net: Name=LED_15
+Added Pin To Net: NetName=LED_16 Pin=S16-3
+Added Net: Name=LED_16
+Added Pin To Net: NetName=LED_17 Pin=S17-3
+Added Net: Name=LED_17
+Added Pin To Net: NetName=LED_18 Pin=S18-3
+Added Net: Name=LED_18
+Added Pin To Net: NetName=LED_19 Pin=S19-3
+Added Net: Name=LED_19
+Added Pin To Net: NetName=LED_20 Pin=S20-3
+Added Net: Name=LED_20
+Added Pin To Net: NetName=LED_21 Pin=S21-3
+Added Net: Name=LED_21
+Added Pin To Net: NetName=LED_22 Pin=S22-3
+Added Net: Name=LED_22
+Added Pin To Net: NetName=LED_23 Pin=S23-3
+Added Net: Name=LED_23
+Added Pin To Net: NetName=SW_12 Pin=S12-1
+Added Net: Name=SW_12
+Added Pin To Net: NetName=SW_13 Pin=S13-1
+Added Net: Name=SW_13
+Added Pin To Net: NetName=SW_14 Pin=S14-1
+Added Net: Name=SW_14
+Added Pin To Net: NetName=SW_15 Pin=S15-1
+Added Net: Name=SW_15
+Added Pin To Net: NetName=SW_16 Pin=S16-1
+Added Net: Name=SW_16
+Added Pin To Net: NetName=SW_17 Pin=S17-1
+Added Net: Name=SW_17
+Added Pin To Net: NetName=SW_18 Pin=S18-1
+Added Net: Name=SW_18
+Added Pin To Net: NetName=SW_19 Pin=S19-1
+Added Net: Name=SW_19
+Added Pin To Net: NetName=SW_20 Pin=S20-1
+Added Net: Name=SW_20
+Added Pin To Net: NetName=SW_21 Pin=S21-1
+Added Net: Name=SW_21
+Added Pin To Net: NetName=SW_22 Pin=S22-1
+Added Net: Name=SW_22
+Added Pin To Net: NetName=SW_23 Pin=S23-1
+Added Net: Name=SW_23
+Added Member To Class: ClassName=UiBoard Member=Component S12 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S13 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S14 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S15 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S16 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S17 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S18 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S19 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S20 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S21 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S22 Switch + LED
+Added Member To Class: ClassName=UiBoard Member=Component S23 Switch + LED
+Added Room: Name=UiBoard

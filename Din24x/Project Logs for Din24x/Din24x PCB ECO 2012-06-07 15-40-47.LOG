@@ -1,0 +1,86 @@
+Added Component: Designator=C_In(1608[0603])
+Added Component: Designator=C_U1(1608[0603])
+Added Component: Designator=P_In_1-8(918510x324)
+Added Component: Designator=P_In(918510x324)
+Added Component: Designator=P_Out(918510x324)
+Added Component: Designator=RA_1.1(EXB38)
+Added Component: Designator=RA_1.2(EXB38)
+Added Component: Designator=U1(D016_L)
+Added Pin To Net: NetName=CL Pin=P_In-1
+Added Pin To Net: NetName=CL Pin=P_Out-1
+Added Pin To Net: NetName=CL Pin=U1-2
+Added Net: Name=CL
+Added Pin To Net: NetName=GND Pin=C_In-1
+Added Pin To Net: NetName=GND Pin=C_U1-1
+Added Pin To Net: NetName=GND Pin=P_In-2
+Added Pin To Net: NetName=GND Pin=P_In-4
+Added Pin To Net: NetName=GND Pin=P_In-6
+Added Pin To Net: NetName=GND Pin=P_In-9
+Added Pin To Net: NetName=GND Pin=P_In_1-8-9
+Added Pin To Net: NetName=GND Pin=P_Out-2
+Added Pin To Net: NetName=GND Pin=P_Out-4
+Added Pin To Net: NetName=GND Pin=P_Out-6
+Added Pin To Net: NetName=GND Pin=P_Out-9
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Net: Name=GND
+Added Pin To Net: NetName=ID Pin=P_In-5
+Added Pin To Net: NetName=ID Pin=P_Out-5
+Added Pin To Net: NetName=ID Pin=U1-10
+Added Net: Name=ID
+Added Pin To Net: NetName=IG Pin=P_In-8
+Added Pin To Net: NetName=IG Pin=P_Out-8
+Added Pin To Net: NetName=IG Pin=U1-1
+Added Net: Name=IG
+Added Pin To Net: NetName=IN_1.1 Pin=P_In_1-8-1
+Added Pin To Net: NetName=IN_1.1 Pin=RA_1.1-1
+Added Pin To Net: NetName=IN_1.1 Pin=U1-11
+Added Net: Name=IN_1.1
+Added Pin To Net: NetName=IN_1.2 Pin=P_In_1-8-2
+Added Pin To Net: NetName=IN_1.2 Pin=RA_1.1-2
+Added Pin To Net: NetName=IN_1.2 Pin=U1-12
+Added Net: Name=IN_1.2
+Added Pin To Net: NetName=IN_1.3 Pin=P_In_1-8-3
+Added Pin To Net: NetName=IN_1.3 Pin=RA_1.1-3
+Added Pin To Net: NetName=IN_1.3 Pin=U1-13
+Added Net: Name=IN_1.3
+Added Pin To Net: NetName=IN_1.4 Pin=P_In_1-8-4
+Added Pin To Net: NetName=IN_1.4 Pin=RA_1.1-4
+Added Pin To Net: NetName=IN_1.4 Pin=U1-14
+Added Net: Name=IN_1.4
+Added Pin To Net: NetName=IN_1.5 Pin=P_In_1-8-5
+Added Pin To Net: NetName=IN_1.5 Pin=RA_1.2-1
+Added Pin To Net: NetName=IN_1.5 Pin=U1-3
+Added Net: Name=IN_1.5
+Added Pin To Net: NetName=IN_1.6 Pin=P_In_1-8-6
+Added Pin To Net: NetName=IN_1.6 Pin=RA_1.2-2
+Added Pin To Net: NetName=IN_1.6 Pin=U1-4
+Added Net: Name=IN_1.6
+Added Pin To Net: NetName=IN_1.7 Pin=P_In_1-8-7
+Added Pin To Net: NetName=IN_1.7 Pin=RA_1.2-3
+Added Pin To Net: NetName=IN_1.7 Pin=U1-5
+Added Net: Name=IN_1.7
+Added Pin To Net: NetName=IN_1.8 Pin=P_In_1-8-8
+Added Pin To Net: NetName=IN_1.8 Pin=RA_1.2-4
+Added Pin To Net: NetName=IN_1.8 Pin=U1-6
+Added Net: Name=IN_1.8
+Added Pin To Net: NetName=OD Pin=P_In-3
+Added Net: Name=OD
+Added Pin To Net: NetName=OS Pin=P_In-7
+Added Pin To Net: NetName=OS Pin=P_Out-7
+Added Net: Name=OS
+Added Pin To Net: NetName=VCC Pin=C_In-2
+Added Pin To Net: NetName=VCC Pin=C_U1-2
+Added Pin To Net: NetName=VCC Pin=P_In-10
+Added Pin To Net: NetName=VCC Pin=P_Out-10
+Added Pin To Net: NetName=VCC Pin=RA_1.1-5
+Added Pin To Net: NetName=VCC Pin=RA_1.1-6
+Added Pin To Net: NetName=VCC Pin=RA_1.1-7
+Added Pin To Net: NetName=VCC Pin=RA_1.1-8
+Added Pin To Net: NetName=VCC Pin=RA_1.2-5
+Added Pin To Net: NetName=VCC Pin=RA_1.2-6
+Added Pin To Net: NetName=VCC Pin=RA_1.2-7
+Added Pin To Net: NetName=VCC Pin=RA_1.2-8
+Added Net: Name=VCC
+Added Class: Name=Din24x
+Added Room: Name=Din24x

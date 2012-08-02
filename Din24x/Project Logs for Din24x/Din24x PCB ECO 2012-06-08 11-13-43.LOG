@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Pin To Net: NetName=VCC Pin=U2-16
+Added Pin To Net: NetName=VCC Pin=U3-16
+Added Room: Name=Din24x.

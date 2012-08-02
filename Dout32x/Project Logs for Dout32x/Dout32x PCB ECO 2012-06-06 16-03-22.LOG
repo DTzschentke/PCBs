@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OUT_1.2 Pin=R?-1
+Removed Pin From Net: NetName=OUT_1.4 Pin=R?-2
+Removed Pin From Net: NetName=OUT_1.6 Pin=R?-3
+Removed Pin From Net: NetName=OUT_1.8 Pin=R?-4
+Added Pin To Net: NetName=OUT_1.8 Pin=R?-5
+Added Pin To Net: NetName=OUT_1.6 Pin=R?-6
+Added Pin To Net: NetName=OUT_1.4 Pin=R?-7
+Added Pin To Net: NetName=OUT_1.2 Pin=R?-8
+Added Room: Name=Dout32x

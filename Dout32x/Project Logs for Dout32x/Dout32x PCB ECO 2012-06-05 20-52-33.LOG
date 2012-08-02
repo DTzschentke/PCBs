@@ -1,0 +1,63 @@
+Added Component: Designator=P_Dout_17-24(918510x324)
+Added Component: Designator=P_Dout_25-32(918510x324)
+Added Component: Designator=U3(D016_N)
+Added Component: Designator=U4(D016_N)
+Added Pin To Net: NetName=GND Pin=P_Dout_17-24-9
+Added Pin To Net: NetName=GND Pin=P_Dout_25-32-9
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=VCC Pin=U3-16
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=VCC Pin=U4-16
+Added Pin To Net: NetName=OUT_3.1 Pin=P_Dout_17-24-1
+Added Pin To Net: NetName=OUT_3.1 Pin=U3-15
+Added Net: Name=OUT_3.1
+Added Pin To Net: NetName=OUT_3.2 Pin=P_Dout_17-24-2
+Added Pin To Net: NetName=OUT_3.2 Pin=U3-1
+Added Net: Name=OUT_3.2
+Added Pin To Net: NetName=OUT_3.3 Pin=P_Dout_17-24-3
+Added Pin To Net: NetName=OUT_3.3 Pin=U3-2
+Added Net: Name=OUT_3.3
+Added Pin To Net: NetName=OUT_3.4 Pin=P_Dout_17-24-4
+Added Pin To Net: NetName=OUT_3.4 Pin=U3-3
+Added Net: Name=OUT_3.4
+Added Pin To Net: NetName=OUT_3.5 Pin=P_Dout_17-24-5
+Added Pin To Net: NetName=OUT_3.5 Pin=U3-4
+Added Net: Name=OUT_3.5
+Added Pin To Net: NetName=OUT_3.6 Pin=P_Dout_17-24-6
+Added Pin To Net: NetName=OUT_3.6 Pin=U3-5
+Added Net: Name=OUT_3.6
+Added Pin To Net: NetName=OUT_3.7 Pin=P_Dout_17-24-7
+Added Pin To Net: NetName=OUT_3.7 Pin=U3-6
+Added Net: Name=OUT_3.7
+Added Pin To Net: NetName=OUT_3.8 Pin=P_Dout_17-24-8
+Added Pin To Net: NetName=OUT_3.8 Pin=U3-7
+Added Net: Name=OUT_3.8
+Added Pin To Net: NetName=OUT_4.1 Pin=P_Dout_25-32-1
+Added Pin To Net: NetName=OUT_4.1 Pin=U4-15
+Added Net: Name=OUT_4.1
+Added Pin To Net: NetName=OUT_4.2 Pin=P_Dout_25-32-2
+Added Pin To Net: NetName=OUT_4.2 Pin=U4-1
+Added Net: Name=OUT_4.2
+Added Pin To Net: NetName=OUT_4.3 Pin=P_Dout_25-32-3
+Added Pin To Net: NetName=OUT_4.3 Pin=U4-2
+Added Net: Name=OUT_4.3
+Added Pin To Net: NetName=OUT_4.4 Pin=P_Dout_25-32-4
+Added Pin To Net: NetName=OUT_4.4 Pin=U4-3
+Added Net: Name=OUT_4.4
+Added Pin To Net: NetName=OUT_4.5 Pin=P_Dout_25-32-5
+Added Pin To Net: NetName=OUT_4.5 Pin=U4-4
+Added Net: Name=OUT_4.5
+Added Pin To Net: NetName=OUT_4.6 Pin=P_Dout_25-32-6
+Added Pin To Net: NetName=OUT_4.6 Pin=U4-5
+Added Net: Name=OUT_4.6
+Added Pin To Net: NetName=OUT_4.7 Pin=P_Dout_25-32-7
+Added Pin To Net: NetName=OUT_4.7 Pin=U4-6
+Added Net: Name=OUT_4.7
+Added Pin To Net: NetName=OUT_4.8 Pin=P_Dout_25-32-8
+Added Pin To Net: NetName=OUT_4.8 Pin=U4-7
+Added Net: Name=OUT_4.8
+Added Member To Class: ClassName=Dout32x Member=Component P_Dout_17-24 10 pol
+Added Member To Class: ClassName=Dout32x Member=Component P_Dout_25-32 10 pol
+Added Member To Class: ClassName=Dout32x Member=Component U3 SN74HC595D
+Added Member To Class: ClassName=Dout32x Member=Component U4 SN74HC595D
+Added Room: Name=Dout32x
